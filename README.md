@@ -20,6 +20,10 @@ Com essa versão digital, você pode jogar com amigos, familiares ou colegas de 
 - Lista
 - Sorteio
 
+# Demais informações: 
+
+O jogo foi desenvolvido a partir de um challenge proposta pela ONE ALura, implementando a lógica de programação, usando JavaScript e outras linguagens.
+
 Disponivel para acesso em: https://github.com/HeriveltoCoutinho/amigoSecreto.git
 
 
