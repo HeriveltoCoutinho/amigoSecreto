@@ -17,4 +17,4 @@
 - Lista
 - Sorteio
 
-Disponivel para acesso em: 
+Disponivel para acesso em: https://github.com/HeriveltoCoutinho/amigoSecreto.git
