@@ -1,7 +1,7 @@
 //O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
 //Este é meu primeiro challenge, uma lista para Sorteio de Amigo Secreto.
 //Código feito por Herivelto Coutinho
-//Feito em 21012025 Alura Oracle
+//Feito em 21012025 Alura Oracle 
 
 let listaParaSortear = []
 
